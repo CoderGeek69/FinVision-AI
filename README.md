@@ -6,11 +6,6 @@ This desktop application utilizes an ARIMA (AutoRegressive Integrated Moving Ave
 - **Data Import**: Easily import historical market data from CSV files.
 - **Data Visualization**: View charts and graphs of historical market trends.
 - **Trend Forecasting**: Use the ARIMA model to forecast future market trends.
-- **User-Friendly Interface**: Simple and intuitive UI for users of all levels.
-- **Customizable Settings**: Adjust model parameters for personalized analysis.
-
-## Development
-This application was developed using Electron, leveraging web technologies such as HTML, CSS, and JavaScript for cross-platform compatibility.
 
 ## Contributing
 Contributions to the project are welcome! Please fork the repository and submit a pull request with your proposed changes.
